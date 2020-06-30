@@ -21,6 +21,6 @@ layout: default
 3. Belçika 
    1. Brüksel
    2. Namur
-<br>
+
 
 {% include 05-emphasis.md %}
