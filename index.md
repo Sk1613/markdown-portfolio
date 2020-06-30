@@ -16,9 +16,6 @@ layout: default
 
 {% include 04-lists.md %}
 
-* Madde 1
-* Madde 2
-  * Kural 1 
-  * Kural 2
+<br>
 
 {% include 05-emphasis.md %}
