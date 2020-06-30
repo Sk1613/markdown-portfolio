@@ -16,8 +16,9 @@ layout: default
 
 {% include 04-lists.md %}
 
-- George Washington
-- John Adams
-- Thomas Jefferson
+* Madde 1
+* Madde 2
+  * Kural 1 
+  * Kural 2
 
 {% include 05-emphasis.md %}
